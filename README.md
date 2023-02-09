@@ -1,4 +1,6 @@
 # flitter
+### A twitter-like platform that allows the publication of mini-contents, publicly or privately.
+[overview.webm](https://user-images.githubusercontent.com/112888040/217859616-e9d1869a-7eae-4f08-b772-33eed0d6900f.webm)
 
 ## Project setup
 ```
